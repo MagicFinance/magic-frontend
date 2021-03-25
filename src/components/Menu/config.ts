@@ -12,11 +12,11 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'Exchange',
-        href: 'https://exchange.magic.finance',
+        href: 'https://exchange.magicdefi.finance',
       },
       {
         label: 'Liquidity',
-        href: 'https://exchange.magic.finance/#/pool',
+        href: 'https://exchange.magicdefi.finance/#/pool',
       },
     ],
   },
